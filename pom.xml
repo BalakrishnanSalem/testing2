@@ -41,7 +41,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>cicid-test</finalName>
+		<finalName>cicid-docker</finalName>
 	</build>
 
 </project>
