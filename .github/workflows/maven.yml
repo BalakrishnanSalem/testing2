@@ -24,7 +24,7 @@ jobs:
 
     - name: Build & push Docker image
       with:
-        image: bala2205/cicid-githubactions
+        image: bala2205/cicidg
         tags: latest
         registry: docker.io
         dockerfile: Dockerfile
